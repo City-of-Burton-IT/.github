@@ -1,9 +1,18 @@
-# .github
+![City of Burton — Information Technology](banner.png)
 
-This repository powers the **public** organization profile for City of Burton IT. GitHub renders
-[`profile/README.md`](profile/README.md) on the public org landing page
-([github.com/City-of-Burton-IT](https://github.com/City-of-Burton-IT)).
+## What we do
 
-Keep this profile deliberately sparse and public-safe: no repository inventory, no internal system,
-host, or vendor names. The member-only profile (with the full repo index) lives in the separate
-`.github-private` repository.
+We build and maintain the internal automation and tooling that supports day-to-day
+operations across the City of Burton, Michigan.
+
+## Open source
+
+Most of our work is internal, so our repositories are private. We may open-source select
+tools and engineering standards over time. Watch this space.
+
+## Get in touch
+
+Reach the service center at [servicecenter@burtonmi.gov](mailto:servicecenter@burtonmi.gov),
+or learn more about the city below.
+
+[![City of Burton — burtonmi.gov](https://img.shields.io/badge/City_of_Burton-burtonmi.gov%20%E2%86%92-00DC99?style=for-the-badge&labelColor=2f3334)](https://www.burtonmi.gov)
